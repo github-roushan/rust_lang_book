@@ -1,6 +1,5 @@
 # 🦀 Rust Learning Projects
-
-Welcome to my personal collection of Rust projects!  
+ 
 This repository is a curated set of small to medium-sized projects I built while learning Rust — covering everything from beginner syntax to advanced concepts like async, macros, and systems programming.
 
 ## 📚 What’s Inside
